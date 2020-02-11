@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 import com.tedu.util.JdbcUtil;
 
-/**水水水水水
+/**水水水水水aaa
  * 学生信息管理系统
  * 运行程序,根据选项,可以对学生信息进行增删改查操作。
  */
