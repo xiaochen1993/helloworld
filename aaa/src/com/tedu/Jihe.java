@@ -1,4 +1,5 @@
 package com.tedu;
+import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -6,12 +7,15 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Map;
 import java.util.Map.Entry;
+
+import org.junit.Test;
 public class Jihe {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println(111);
 		System.out.println(222);
 		System.out.println(333);
+	
         ArrayList<Object> al = new ArrayList<>();
         al.add(2);
         al.add("aa");
@@ -67,7 +71,7 @@ public class Jihe {
 	}
      
 	}
-	
-	
+	@Test
+	public void aa() {}
 
 }
